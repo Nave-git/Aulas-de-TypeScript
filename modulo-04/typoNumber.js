@@ -10,3 +10,4 @@ console.log(`Valor em decimal: ${valorHexadecimal}`);
 console.log(`Valor em hexadecimanl: ${valorHexadecimal.toString(16)}`);
 console.log("Number - Octal...: ", num4);
 console.log("Number - Binário...: ", num5);
+console.log("Number - Binário...: ", num5 * num5);
