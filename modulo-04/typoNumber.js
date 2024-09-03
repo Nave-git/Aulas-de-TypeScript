@@ -1,0 +1,12 @@
+"use strict";
+let num3 = 23.0;
+let num4 = 0o577;
+let num5 = 0b110001;
+var valorHexadecimal = 0x78cf;
+console.log(typeof valorHexadecimal);
+console.log(valorHexadecimal);
+console.log("Number - Ponto Flutuante...: ", num3);
+console.log(`Valor em decimal: ${valorHexadecimal}`);
+console.log(`Valor em hexadecimanl: ${valorHexadecimal.toString(16)}`);
+console.log("Number - Octal...: ", num4);
+console.log("Number - Binário...: ", num5);
