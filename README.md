@@ -3,7 +3,7 @@
 Aqui estão alguns recursos úteis para praticar e aprimorar suas habilidades em TypeScript:
 
 ## Exercícios e Desafios
-
+- **[Exercicios W3Shools - TypeScript]_(https://www.w3schools.com/typescript/exercise.php?filename=exercise_intro1).**: Desenvolver todos os exercíos, colocar no seu repositório e convidar o professor.
 - **[Exercism.io - TypeScript Track](https://exercism.io/tracks/typescript)**: Oferece desafios de codificação para praticar TypeScript e receber feedback.
 - **[LeetCode](https://leetcode.com)**: Resolver problemas de codificação usando TypeScript, focado em algoritmos e estruturas de dados.
 - **[HackerRank - TypeScript Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)**: Desafios de codificação em várias linguagens, incluindo TypeScript.
